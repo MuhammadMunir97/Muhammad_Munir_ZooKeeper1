@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ZooTester",
+            "request": "launch",
+            "mainClass": "com.animal.ZooTester",
+            "projectName": "Muhammad_Munir_ZooKeeperPart1"
+        }
+    ]
+}
